@@ -1,8 +1,10 @@
-<div style="text-align: center; padding: 10rem;">
+<div style="width: 600px; height: 300px; overflow: hidden; text-align: center;">
   <picture>
     <source srcset="https://i.imgur.com/r6J4ZuZ.png" media="(prefers-color-scheme: dark)" />
     <source srcset="https://i.imgur.com/nbXTIwu.png" media="(prefers-color-scheme: light)" />
-    <img src="https://i.imgur.com/r6J4ZuZ.png" alt="Theme-based preview of light and dark mode UI" style="height: 300px; width: auto;" />
+    <img src="https://i.imgur.com/r6J4ZuZ.png"
+         alt="Theme-based preview of light and dark mode UI"
+         style="width: 600px; height: 300px; object-fit: cover;" />
   </picture>
 </div>
 

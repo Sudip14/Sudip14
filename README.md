@@ -1,20 +1,12 @@
-<div style="
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 300px;
-  overflow: hidden;
-  background-color: #f0f0f0;
-">
+
   <picture>
     <source srcset="https://i.imgur.com/r6J4ZuZ.png" media="(prefers-color-scheme: dark)" />
     <source srcset="https://i.imgur.com/nbXTIwu.png" media="(prefers-color-scheme: light)" />
     <img src="https://i.imgur.com/r6J4ZuZ.png"
          alt="Theme-based preview of light and dark mode UI"
-         style="width: 100%; height: 500px; object-fit: cover;" />
+         style="width: 600px; height: 500px; object-fit: cover;" />
   </picture>
-</div>
+
 
 ## About me
 
